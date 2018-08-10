@@ -1,0 +1,19 @@
+{
+    "name": "istepaniuk/dojo",
+    "description": "Rover",
+    "authors": [
+        {
+            "name": "Ivan Stepaniuk",
+            "email": "istepaniuk@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+           "Tests\\": "tests/",
+           "Rover\\": "src/"
+        }
+    }
+}
