@@ -1,6 +1,6 @@
 Mars Rover Kata
 ===============
-Source: Widespread kata, generally atributed to the Dallas Hack Club, 
+Source: Widespread kata, generally atributed to the Dallas Hack Club.
 
 Description
 -----------
